@@ -2,7 +2,7 @@
 
 A simple approcah for student performance prediction challenge on Kaggle. This notebook scored 0.624 with few entries, 1st place is scored 0.705.
 
-####competition link:
+#### competition link:
 
 To run the notebook you will need to download the training data from
 
